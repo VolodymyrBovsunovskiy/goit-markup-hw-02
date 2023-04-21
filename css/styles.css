@@ -1,1 +1,27 @@
-ul {color: black;}
+/*.main-page {position: relative;
+    width: 1440px;
+    height: 2592px;
+    
+    background: #FFFFFF;}
+.top-line {position: absolute;
+    width: 1440px;
+    height: 72px;
+    left: 0px;
+    top: 0px;}
+.hero-image {position: absolute;
+    width: 1440px;
+    height: 600px;
+    left: 0px;
+    top: 72px;}
+.section1 {position: absolute;
+    width: 1128px;
+    height: 104px;
+    left: 156px;
+    top: 792px;
+    
+    }
+.section2 {position: absolute;
+    width: 1128px;
+    height: 412px;
+    left: 156px;
+    top: 1016px;} 
